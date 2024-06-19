@@ -114,3 +114,4 @@ function secondsToYears(secondsAge: number, planeta: string): number | string {
 }
 
 console.log(secondsToYears(1000000000, "Marte"));
+console.log("ufffffff hoy creia que era viernes y miercoles, los alumnos siguen en lunes hahaah")
